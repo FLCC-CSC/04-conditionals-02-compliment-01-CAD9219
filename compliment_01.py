@@ -2,7 +2,7 @@
 
 # NAME: Collin Dillabough
 # DATE: 02/26/2026
-# BRIEF DESCRIPTION:  
+# BRIEF DESCRIPTION:  This program will give a compliment if user inputs 'yes'
 
 
 
