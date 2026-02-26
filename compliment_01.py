@@ -1,8 +1,9 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Collin Dillabough
+# DATE: 02/26/2026
+# BRIEF DESCRIPTION:  This program will give a compliment if user inputs 'yes'
+# 
 
 
 
@@ -15,6 +16,12 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+user_answer = input('Would you like a compliment?')
+
+if (user_answer == 'yes'):
+    print('You have wonderful eyes.')
+
+print('Thank you for playing.')
 
 
 
@@ -66,13 +73,11 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
-
+1
 
 
 2. What was the hardest part of this lab?
-
-
+For me just remembering syntax.
 
 
 
